@@ -1,0 +1,11 @@
+{
+  "webhook": "",
+  "apikey": "",
+  "accounts": [
+    {
+      "username": "username",
+      "password": "password",
+      "timestamp": 0
+    }
+  ]
+}
